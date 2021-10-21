@@ -33,7 +33,7 @@ Registered users will always have access to the workout/nutritional regimen page
 ### Backend API
 
 Server Routes and Seed Data:  
-https://github.com/tonyzhang626/fitness-api
+https://github.com/tonyzhao626/fitness-api
 
 ### Tech Stack
 * React.js
