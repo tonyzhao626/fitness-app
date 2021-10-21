@@ -28,6 +28,8 @@ To access nutritional advice, click on 'NUTRITION'.
 The estrogen and progesterone levels are calculated from medical surveys on the contraceptive's specific effects on hormonal levels.  
 Registered users will always have access to the workout/nutritional regimen page contingent upon logging in with the correct email and password.
 
+![Example](readme_files/userbase.png)
+
 ### Backend API
 
 Server Routes and Seed Data:  
